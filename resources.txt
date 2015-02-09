@@ -1,0 +1,5 @@
+resources
+
+http://api.jquery.com
+http://www.w3schools.com
+https://developers.google.com/maps/documentation/javascript/reference
